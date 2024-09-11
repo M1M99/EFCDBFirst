@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\models\\scard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\models\\scard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\data\\servis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\data\\servis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\data\\menuproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\data\\menuproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\data\\servis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\data\\servis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\models\\tcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\models\\tcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\models\\press.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\models\\press.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\models\\scard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\models\\scard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|solutionrelative:entityframeworkcore_project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D85B91A0-396C-4819-917B-9A13ED7B8476}|EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project.csproj|c:\\users\\asus\\source\\repos\\entityframeworkcore_project\\entityframeworkcore_project\\models\\lib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,21 +58,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "Press.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\Press.cs",
+              "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Models\\Press.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\Press.cs",
+              "RelativeToolTip": "EntityFrameWorkCore_Project\\Models\\Press.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:02:13.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\Theme.cs",
+              "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Models\\Theme.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\Theme.cs",
+              "RelativeToolTip": "EntityFrameWorkCore_Project\\Models\\Theme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:02:03.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Servis.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Data\\Servis.cs",
               "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Data\\Servis.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Data\\Servis.cs",
               "RelativeToolTip": "EntityFrameWorkCore_Project\\Data\\Servis.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAEwB4AAAA1AAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAApwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T16:10:03.736Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-09-08T17:00:02.912Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "EntityFrameWorkCore_Project\\Data\\LibraryContext.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAADwv4sAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:28:19.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Program.cs",
+              "RelativeToolTip": "EntityFrameWorkCore_Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:05:53.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SCard.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\SCard.cs",
+              "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Models\\SCard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\SCard.cs",
+              "RelativeToolTip": "EntityFrameWorkCore_Project\\Models\\SCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:02:44.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuProj.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Data\\MenuProj.cs",
+              "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Data\\MenuProj.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Data\\MenuProj.cs",
+              "RelativeToolTip": "EntityFrameWorkCore_Project\\Data\\MenuProj.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAIwN0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:47:08.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\Author.cs",
+              "RelativeToolTip": "EntityFrameWorkCore_Project\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:02:24.256Z"
             },
             {
               "$type": "Document",
@@ -62,26 +171,14 @@
               "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Models\\TCard.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\TCard.cs",
               "RelativeToolTip": "EntityFrameWorkCore_Project\\Models\\TCard.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T16:02:48.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SCard.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\SCard.cs",
-              "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Models\\SCard.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\SCard.cs",
-              "RelativeToolTip": "EntityFrameWorkCore_Project\\Models\\SCard.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T16:02:44.011Z",
+              "WhenOpened": "2024-09-06T16:02:48.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Lib.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\Lib.cs",
               "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Models\\Lib.cs",
@@ -93,40 +190,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\Book.cs",
               "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Models\\Book.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\Book.cs",
               "RelativeToolTip": "EntityFrameWorkCore_Project\\Models\\Book.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBcAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T15:59:04.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Program.cs",
-              "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Program.cs",
-              "RelativeToolTip": "EntityFrameWorkCore_Project\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAAA8AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T14:05:53.842Z",
+              "WhenOpened": "2024-09-06T15:59:04.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MenuProj.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Data\\MenuProj.cs",
-              "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Data\\MenuProj.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Data\\MenuProj.cs",
-              "RelativeToolTip": "EntityFrameWorkCore_Project\\Data\\MenuProj.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EntityFrameWorkCore_Project\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EntityFrameWorkCore_Project\\EntityFrameWorkCore_Project\\Models\\Category.cs",
+              "RelativeToolTip": "EntityFrameWorkCore_Project\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T15:47:08.9Z"
+              "WhenOpened": "2024-09-08T18:02:22.617Z"
             }
           ]
         }

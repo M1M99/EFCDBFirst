@@ -4,16 +4,16 @@ using EntityFrameWorkCore_Project.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace EntityFrameWorkCore_Project.Datas;
-
 public partial class LibraryContext : DbContext
 {
     public LibraryContext()
     {
+
     }
 
-    public LibraryContext(DbContextOptions<LibraryContext> options)
-        : base(options)
+    public LibraryContext(DbContextOptions<LibraryContext> options) : base(options)
     {
+
     }
 
     public virtual DbSet<Book> Books { get; set; }
@@ -23,6 +23,13 @@ public partial class LibraryContext : DbContext
     public virtual DbSet<SCard> SCards { get; set; }
 
     public virtual DbSet<TCard> TCards { get; set; }
+    public virtual DbSet<Author> Authors { get; set; }
+
+    public virtual DbSet<Category> Categories { get; set; }
+
+    public virtual DbSet<Press> Presses { get; set; }
+
+    public virtual DbSet<Theme> Themes { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
@@ -102,6 +109,35 @@ public partial class LibraryContext : DbContext
                 .HasForeignKey(d => d.IdLib)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_T_Cards_Lib");
+
+
+            modelBuilder.Entity<Author>(entity =>
+            {
+                entity.Property(e => e.Id).ValueGeneratedNever();
+                entity.Property(e => e.FirstName).HasMaxLength(15);
+                entity.Property(e => e.LastName).HasMaxLength(25);
+            });
+
+            modelBuilder.Entity<Category>(entity =>
+            {
+                entity.Property(e => e.Id).ValueGeneratedNever();
+                entity.Property(e => e.Name).HasMaxLength(30);
+            });
+
+            modelBuilder.Entity<Press>(entity =>
+            {
+                entity.ToTable("Press");
+
+                entity.Property(e => e.Id).ValueGeneratedNever();
+                entity.Property(e => e.Name).HasMaxLength(30);
+            });
+
+            modelBuilder.Entity<Theme>(entity =>
+            {
+                entity.Property(e => e.Id).ValueGeneratedNever();
+                entity.Property(e => e.Name).HasMaxLength(30);
+            });
+
         });
 
         OnModelCreatingPartial(modelBuilder);

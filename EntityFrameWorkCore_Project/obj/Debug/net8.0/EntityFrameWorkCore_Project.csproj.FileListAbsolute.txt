@@ -129,3 +129,4 @@ C:\Users\ASUS\source\repos\EntityFrameWorkCore_Project\EntityFrameWorkCore_Proje
 C:\Users\ASUS\source\repos\EntityFrameWorkCore_Project\EntityFrameWorkCore_Project\obj\Debug\net8.0\EntityFrameWorkCore_Project.pdb
 C:\Users\ASUS\source\repos\EntityFrameWorkCore_Project\EntityFrameWorkCore_Project\obj\Debug\net8.0\EntityFrameWorkCore_Project.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\EntityFrameWorkCore_Project\EntityFrameWorkCore_Project\obj\Debug\net8.0\ref\EntityFrameWorkCore_Project.dll
+C:\Users\ASUS\source\repos\EntityFrameWorkCore_Project\EntityFrameWorkCore_Project\obj\Debug\net8.0\EntityFrameWorkCore_Project.sourcelink.json

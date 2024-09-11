@@ -17,8 +17,6 @@ public class Book
         this.IdPress = IdPress;
         this.Comment = Comment;
         this.Quantity = Quantity;
-        //SCards = sCards;
-        //TCards = tCards;
     }
 
     public Book() { }

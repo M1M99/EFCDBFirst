@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace EntityFrameWorkCore_Project.Models;
+﻿namespace EntityFrameWorkCore_Project.Models;
 
 public partial class Lib
 {
